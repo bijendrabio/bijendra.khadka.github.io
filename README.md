@@ -8,7 +8,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 My name is Bijendra Khadka and currently, I work as Research Scientist PRP at the Agriculture and Agri-Food Canada Ottawa. I am particularly interested in comparative genomics, evolutionary biology, and structure-based drug discovery. Along with my research, I am in favor of efforts for more collaborative, and reproducible science. In my free time I enjoy hiking, playing various sports and reading science and philosoply related books.
 
 ```markdown
-Here is an example of basic code
+Here is an example of basic code/ Here is an example of basic code
 
 # Header 1
 ## Header 2
